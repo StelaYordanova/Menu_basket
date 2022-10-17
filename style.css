@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+  }
+  body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFEFEF;
+  }
+
+#basket h2{
+    margin: 20px;
+}
+
+#basket h3{
+    margin: 20px;
+}
+
+#basket .quantity{
+    padding: 5px;
+}
